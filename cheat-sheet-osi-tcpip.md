@@ -98,7 +98,3 @@ Model referensi yang dibuat oleh International Organization for Standardization 
 | DNS ada di layer? | **Layer 7 – Application** |
 | Three-way Handshake milik protokol? | **TCP – Layer 4 – Transport** |
 | SSL/TLS ada di layer? | **Layer 6 – Presentation** |
-
----
-
-*Cheat Sheet OSI + TCP/IP  |  Dibuat untuk Persiapan SKB & Ujian Jaringan Komputer*
