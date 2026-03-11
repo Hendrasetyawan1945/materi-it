@@ -1,6 +1,6 @@
 # 📡 CHEAT SHEET JARINGAN KOMPUTER
 
-Model OSI 7 Layer + TCP/IP  |  Referensi Cepat SKB / Ujian Jaringan
+Model OSI 7 Layer + TCP/IP
 
 ---
 
