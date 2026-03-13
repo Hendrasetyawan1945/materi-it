@@ -152,6 +152,3 @@ PAT = NAT Overload. Satu IP public melayani BANYAK client dengan membedakan port
 
 ---
 
-*Sisa konten akan dilanjutkan sesuai kebutuhan*
-
-© Modul Jaringan Komputer Lengkap | Persiapan SKB TIK & Ujian Jaringan
